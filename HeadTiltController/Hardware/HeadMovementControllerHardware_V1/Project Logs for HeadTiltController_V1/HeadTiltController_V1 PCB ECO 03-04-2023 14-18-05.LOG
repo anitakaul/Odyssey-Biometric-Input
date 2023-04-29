@@ -1,0 +1,13 @@
+Change Physical Footprint: Designator=C1 Old Footprint=C322C475K5R5TA New Footprint=C322C475K5R5TA
+Change Physical Footprint: Designator=C2 Old Footprint=FG14 New Footprint=FG14
+Change Physical Footprint: Designator=IMU Old Footprint=SMTC-TSW-106-07-X-S New Footprint=SMTC-TSW-106-07-X-S
+Change Physical Footprint: Designator=J1 Old Footprint=FP-CRCW0805-e3-IPC_B New Footprint=FP-CRCW0805-e3-IPC_B
+Change Physical Footprint: Designator=Player Pos Old Footprint=FP-TSW-102-07-G-S-MFG New Footprint=FP-TSW-102-07-G-S-MFG
+Change Physical Footprint: Designator=R1 Old Footprint=OMTE-RES7X2.5-2 New Footprint=OMTE-RES7X2.5-2
+Change Physical Footprint: Designator=R2 Old Footprint=OMTE-RES7X2.5-2 New Footprint=OMTE-RES7X2.5-2
+Change Physical Footprint: Designator=R3 Old Footprint=OMTE-RES7X2.5-2 New Footprint=OMTE-RES7X2.5-2
+Change Physical Footprint: Designator=SW1 Old Footprint=FP-B3F-1070-MFG New Footprint=FP-B3F-1070-MFG
+Change Physical Footprint: Designator=SW2 Old Footprint=FP-B3F-1070-MFG New Footprint=FP-B3F-1070-MFG
+Change Physical Footprint: Designator=SW3 Old Footprint=FP-B3F-1070-MFG New Footprint=FP-B3F-1070-MFG
+Change Physical Footprint: Designator=TB? Old Footprint=SHIELD_ARDUINO_NANO New Footprint=SHIELD_ARDUINO_NANO
+Change Physical Footprint: Designator=U1 Old Footprint=SOIC-SL14_N New Footprint=SOIC-SL14_N

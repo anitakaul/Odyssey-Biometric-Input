@@ -1,0 +1,40 @@
+Added Component: Designator=Header(SHIELD_ARDUINO_NANO)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/Arduino%20Nano/Arduino/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "Arduino Nano"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Non-Standard Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/Arduino%20Nano/Arduino/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=D1 Pin=Header-1
+Added Pin To Net: NetName=D0 Pin=Header-2
+Added Pin To Net: NetName=RESET Pin=Header-3
+Added Pin To Net: NetName=GND Pin=Header-4
+Added Pin To Net: NetName=D2 Pin=Header-5
+Added Pin To Net: NetName=D3 Pin=Header-6
+Added Pin To Net: NetName=D4 Pin=Header-7
+Added Pin To Net: NetName=D5 Pin=Header-8
+Added Pin To Net: NetName=D6 Pin=Header-9
+Added Pin To Net: NetName=D7 Pin=Header-10
+Added Pin To Net: NetName=D8 Pin=Header-11
+Added Pin To Net: NetName=D9 Pin=Header-12
+Added Pin To Net: NetName=D10 Pin=Header-13
+Added Pin To Net: NetName=MOSI Pin=Header-14
+Added Pin To Net: NetName=MISO Pin=Header-15
+Added Pin To Net: NetName=SCK Pin=Header-16
+Added Pin To Net: NetName=3v3 Pin=Header-17
+Added Pin To Net: NetName=AREF Pin=Header-18
+Added Pin To Net: NetName=A0 Pin=Header-19
+Added Pin To Net: NetName=A1 Pin=Header-20
+Added Pin To Net: NetName=A2 Pin=Header-21
+Added Pin To Net: NetName=A3 Pin=Header-22
+Added Pin To Net: NetName=SDA Pin=Header-23
+Added Pin To Net: NetName=SCL Pin=Header-24
+Added Pin To Net: NetName=A6 Pin=Header-25
+Added Pin To Net: NetName=A7 Pin=Header-26
+Added Pin To Net: NetName=+5 Pin=Header-27
+Added Pin To Net: NetName=RESET Pin=Header-28
+Added Pin To Net: NetName=GND Pin=Header-29
+Added Pin To Net: NetName=VIN Pin=Header-30
+Added Member To Class: ClassName=HeadTiltController_V1 Member=Component Header ARDUINO_NANO

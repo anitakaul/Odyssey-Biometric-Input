@@ -1,0 +1,78 @@
+Added Component: Designator=TB?(SHIELD_ARDUINO_NANO)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/Arduino%20Nano/Arduino/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "Arduino Nano"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Non-Standard Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/Arduino%20Nano/Arduino/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A0 Pin=Header-1
+Added Pin To Net: NetName=A0 Pin=Header-2
+Added Pin To Net: NetName=A0 Pin=Header-3
+Added Pin To Net: NetName=A0 Pin=Header-5
+Added Pin To Net: NetName=A0 Pin=Header-6
+Added Pin To Net: NetName=GND Pin=Header-10
+Added Pin To Net: NetName=GND Pin=Header-11
+Added Pin To Net: NetName=GND Pin=Header-12
+Added Pin To Net: NetName=GND Pin=Header-13
+Added Pin To Net: NetName=GND Pin=Header-14
+Added Pin To Net: NetName=GND Pin=Header-15
+Added Pin To Net: NetName=GND Pin=Header-16
+Added Pin To Net: NetName=GND Pin=Header-17
+Added Pin To Net: NetName=GND Pin=Header-18
+Added Pin To Net: NetName=A0 Pin=Header-20
+Added Pin To Net: NetName=A0 Pin=Header-21
+Added Pin To Net: NetName=A0 Pin=Header-22
+Added Pin To Net: NetName=A0 Pin=Header-23
+Added Pin To Net: NetName=A0 Pin=Header-24
+Added Pin To Net: NetName=A0 Pin=Header-25
+Added Pin To Net: NetName=A0 Pin=Header-26
+Added Pin To Net: NetName=GND Pin=Header-27
+Added Pin To Net: NetName=A0 Pin=Header-28
+Added Pin To Net: NetName=A0 Pin=Header-30
+Added Pin To Net: NetName=GND Pin=IMU-1
+Added Pin To Net: NetName=A0 Pin=IMU-4
+Added Pin To Net: NetName=A0 Pin=IMU-5
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=A0 Pin=SW1-3
+Added Pin To Net: NetName=A0 Pin=TB?-1
+Added Pin To Net: NetName=A0 Pin=TB?-2
+Added Pin To Net: NetName=A0 Pin=TB?-3
+Added Pin To Net: NetName=GND Pin=TB?-4
+Added Pin To Net: NetName=A0 Pin=TB?-5
+Added Pin To Net: NetName=A0 Pin=TB?-6
+Added Pin To Net: NetName=D4 Pin=TB?-7
+Added Pin To Net: NetName=D5 Pin=TB?-8
+Added Pin To Net: NetName=D6 Pin=TB?-9
+Added Pin To Net: NetName=GND Pin=TB?-10
+Added Pin To Net: NetName=GND Pin=TB?-11
+Added Pin To Net: NetName=GND Pin=TB?-12
+Added Pin To Net: NetName=GND Pin=TB?-13
+Added Pin To Net: NetName=GND Pin=TB?-14
+Added Pin To Net: NetName=GND Pin=TB?-15
+Added Pin To Net: NetName=GND Pin=TB?-16
+Added Pin To Net: NetName=GND Pin=TB?-17
+Added Pin To Net: NetName=GND Pin=TB?-18
+Added Pin To Net: NetName=A0 Pin=TB?-19
+Added Pin To Net: NetName=A0 Pin=TB?-20
+Added Pin To Net: NetName=A0 Pin=TB?-21
+Added Pin To Net: NetName=A0 Pin=TB?-22
+Added Pin To Net: NetName=A0 Pin=TB?-23
+Added Pin To Net: NetName=A0 Pin=TB?-24
+Added Pin To Net: NetName=A0 Pin=TB?-25
+Added Pin To Net: NetName=A0 Pin=TB?-26
+Added Pin To Net: NetName=GND Pin=TB?-27
+Added Pin To Net: NetName=A0 Pin=TB?-28
+Added Pin To Net: NetName=GND Pin=TB?-29
+Added Pin To Net: NetName=A0 Pin=TB?-30
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-12
+Added Pin To Net: NetName=GND Pin=U1-13
+Added Pin To Net: NetName=GND Pin=U1-14
+Change Net Name : Old Net Name=GND New Net Name=3v3
+Added Member To Class: ClassName=HeadTiltController_V1 Member=Component TB? ARDUINO_NANO
